@@ -10,9 +10,10 @@
 * Agradeço à equipe organizadora, aos mentores e a todos os participantes que tornaram essa semana tão especial. Juntos, estamos construindo caminhos sólidos para o futuro da programação!
 * #DesenvolvimentoWeb #Gratidão #DevEmDobro #AprendizadoContínuo #Programação #WebDevelopment #Networking 🚀👩‍💻👨‍💻
 
-
-
-
-
+# Imagens do projeto responsivo Notebook, Tablet e Mobile:
+<p align="#">
+<img src="https://github.com/emersonlucirio/Landing_Page_GTA_V/assets/112041088/4fa90b37-6d6e-40d3-9454-92a7f0640a81" width="400"> &nbsp; <img src="https://github.com/emersonlucirio/Landing_Page_GTA_V/assets/112041088/9950bf97-fb01-42e7-a0a6-8d9139b0f127" width="170"> &nbsp; &nbsp; &nbsp;
+ <img src="https://github.com/emersonlucirio/Landing_Page_GTA_V/assets/112041088/5bb8f701-bc9b-4827-af2b-47861bb2b34c" width="100">
+</p>
 
 
